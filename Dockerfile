@@ -1,4 +1,4 @@
-FROM node:23
+FROM node:20
 LABEL DESCRIPTION="Dockerfile for api-tests"
 
 WORKDIR /api-tests-final
